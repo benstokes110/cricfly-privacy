@@ -5,7 +5,7 @@
 **App Name:** CricFly TV  
 **Package ID:** com.livecrictvhd.cricfly  
 **Developer / Company:** OrbitFlux Digital Apps  
-**Contact Email:** *orbitflux@proton.me*
+**Contact Email:** *cricflytv@proton.me*
 
 ---
 
@@ -219,7 +219,7 @@ We encourage you to review this policy periodically. Continued use of the App af
 If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us:
 
 **Developer:** OrbitFlux Digital Apps  
-**Email:** orbitflux@proton.me  
+**Email:** cricflytv@proton.me  
 **App:** CricFly TV  
 **Package:** com.livecrictvhd.cricfly
 
